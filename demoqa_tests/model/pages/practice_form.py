@@ -23,7 +23,7 @@ def set_email(value):
 
 
 def set_gender(gender):
-    radiobutton.set_value(browser.all('#gender-radio-2'), gender) #у нее другой селектор и был просто клик
+    radiobutton.set_value(browser.all('#gender-radio-2'), gender)
 
 
 def set_phone_number(value):
@@ -44,11 +44,11 @@ def set_subjects(subject):
 
 
 def set_state(value):
-    dropdown.select(browser.element('#state'), value) #у меня немного по другому
+    dropdown.select(browser.element('#state'), value)
 
 
 def set_city(value):
-    dropdown.select(browser.element('#city'), value) #у меня немного по другому
+    dropdown.select(browser.element('#city'), value)
 
 
 def picture_upload(path_to_pic):
