@@ -25,4 +25,4 @@
 ![This is an image](tests/resources/screenshots/allure.png)
 
 ##### Видео прохождения теста
-![This is an image](tests/resources/video/video_allure.gif)
+![This is an image](tests/resources/video/video.gif)
