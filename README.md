@@ -22,7 +22,7 @@
 
 ``` allure serve tests/allure-results/ ```
 
-![This is an image](tests/resources/screenshots/Снимок экрана 2023-03-21 в 18.41.07.png)
+![This is an image](tests/resources/screenshots/allure.png)
 
 ##### Видео прохождения теста
-![This is an image](tests/resources/video/Запись экрана 2023-03-21 в 18.44.18.mov)
+![This is an image](tests/resources/video/video_allure.gif)
